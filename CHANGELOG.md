@@ -2,7 +2,7 @@
 
 ## Documentation naming and attribution update - 2026-09-22
 
-- Confirmed TokenLedger as the project name and @wlzh as project lead and maintainer; planned public repository is wlzh/TokenLedger.
+- Confirmed TokenLedger as the project name and @wlzh as project lead and maintainer; created public documentation repository wlzh/TokenLedger.
 - Added explicit macOS/Windows integration plans and acknowledgments to CodexBar and Win-CodexBar in both READMEs.
 - Kept runtime support, repository publication, and private reporting channel status explicit rather than claiming completion.
 

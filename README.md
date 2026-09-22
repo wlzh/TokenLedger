@@ -6,7 +6,7 @@ Employee-authorized AI subscription, usage, and expense reporting for small team
 
 **Status: documentation-only design draft. No agent, server, web app, installer, or hosted service has been implemented.** TokenLedger is the confirmed project name; public name/trademark availability has not been verified.
 
-Maintainer and project lead: [@wlzh](https://github.com/wlzh). Planned public repository: `wlzh/TokenLedger` (publication pending).
+Maintainer and project lead: [@wlzh](https://github.com/wlzh). Public documentation repository: [wlzh/TokenLedger](https://github.com/wlzh/TokenLedger).
 
 ## Platforms and upstream acknowledgments
 
@@ -70,4 +70,4 @@ See [privacy design](PRIVACY.md), [security policy](SECURITY.md), [threat model]
 
 New project material is provided under the [MIT License](LICENSE). This is an independent project, not an official CodexBar, Win-CodexBar, OpenAI, or Anthropic product. See [third-party notices](THIRD_PARTY_NOTICES.md). Referencing or invoking an upstream project does not grant rights to provider services or trademarks.
 
-The project is maintained by @wlzh and intended for publication under `wlzh/TokenLedger`. GitHub write access, a private security channel, signing identities, package names, and production domains still need verification or configuration. Contributions follow [CONTRIBUTING.md](CONTRIBUTING.md).
+The project is maintained by @wlzh at `wlzh/TokenLedger`. A private security channel, signing identities, package names, and production domains still need configuration before software distribution or operation. Contributions follow [CONTRIBUTING.md](CONTRIBUTING.md).

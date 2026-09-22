@@ -6,7 +6,7 @@ This repository is a documentation-only design draft. There are no released exec
 
 ## Reporting
 
-Project maintainer and security coordination owner: [@wlzh](https://github.com/wlzh). Planned repository: `wlzh/TokenLedger`. A GitHub profile is not a private disclosure channel; no email address or enabled private vulnerability reporting feature is assumed.
+Project maintainer and security coordination owner: [@wlzh](https://github.com/wlzh). Repository: [wlzh/TokenLedger](https://github.com/wlzh/TokenLedger). A GitHub profile is not a private disclosure channel; no email address or enabled private vulnerability reporting feature is assumed.
 
 Do not publish provider credentials, employee records, raw logs, database exports, or exploitable production details in public issues. A private maintainer contact and disclosure workflow must be configured before any pilot or public software release. No security email address or response SLA has been established yet.
 

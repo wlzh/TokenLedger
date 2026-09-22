@@ -1,6 +1,6 @@
 # Contributing
 
-TokenLedger is maintained by [@wlzh](https://github.com/wlzh), with planned public repository `wlzh/TokenLedger`. Project-wide reviews are coordinated by the maintainer; deployment-specific employee policies remain the responsibility of each operating company.
+TokenLedger is maintained by [@wlzh](https://github.com/wlzh) at [wlzh/TokenLedger](https://github.com/wlzh/TokenLedger). Project-wide reviews are coordinated by the maintainer; deployment-specific employee policies remain the responsibility of each operating company.
 
 The project is currently in documentation review. There is no build, development server, or test runner to execute. Do not introduce implementation as though the design had already been approved.
 

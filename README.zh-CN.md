@@ -6,7 +6,7 @@
 
 **当前仅交付完整设计文档。没有实现客户端、服务端、网页、安装器，也没有部署公网服务。** 项目名已确定为 TokenLedger，公开重名及商标可用性尚未核查。
 
-项目负责人及维护者：[@wlzh](https://github.com/wlzh)。计划公开仓库：`wlzh/TokenLedger`，尚待完成发布。
+项目负责人及维护者：[@wlzh](https://github.com/wlzh)。公开文档仓库：[wlzh/TokenLedger](https://github.com/wlzh/TokenLedger)。开源文档不代表已发布可运行软件。
 
 ## 双平台与上游致谢
 

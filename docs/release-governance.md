@@ -1,6 +1,6 @@
 # 开源与发布治理
 
-当前是文档草案，未创建远程仓库、未发布软件。项目名 TokenLedger，负责人和维护者 @wlzh，计划公开到 wlzh/TokenLedger。
+当前是公开文档草案，未发布软件。项目名 TokenLedger，负责人和维护者 @wlzh，公开仓库为 wlzh/TokenLedger。
 
 ## 许可证策略
 
@@ -12,7 +12,7 @@ MIT不授予上游商标、背书、供应商账户共享或绕过接口限制�
 
 根目录中英文README、LICENSE、THIRD_PARTY_NOTICES、PRIVACY、SECURITY、CONTRIBUTING、CODE_OF_CONDUCT、SUPPORT、CHANGELOG应随版本同步。README明确支持范围、精度边界、隐私流向、签名验证与卸载；不使用员工真实数据演示。
 
-维护者为 [@wlzh](https://github.com/wlzh)，目标仓库为 `wlzh/TokenLedger`。发布前核实GitHub写权限；公开软件试点前落实漏洞私密渠道、社区举报渠道、签名及域名。贡献采用常规PR审查；是否引入DCO/CLA须单独决策，不在文档阶段虚构已有签署流程。
+维护者为 [@wlzh](https://github.com/wlzh)，仓库为 [wlzh/TokenLedger](https://github.com/wlzh/TokenLedger)。公开软件试点前落实漏洞私密渠道、社区举报渠道、签名及域名。贡献采用常规PR审查；是否引入DCO/CLA须单独决策，不在文档阶段虚构已有签署流程。
 
 ## 发布要求
 
